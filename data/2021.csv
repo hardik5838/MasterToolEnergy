@@ -1,0 +1,339 @@
+Comunidad Autónoma,Center,Measure,Energy Saved,Money Saved,Investment,Pay back period
+Madrid,Coslada,Sistema de Gestión Energética,101046,10547,3500,0.3
+Madrid,Coslada,Optimización de la potencia contratada,0,11640,9,0.2
+Madrid,Coslada,Renovación de Equipamiento Específico,1533000,50360,167700,3.3
+Madrid,Coslada,Instalación de Paneles Solares (Fotovoltaicos o Híbridos),173491,66095,425000,6.4
+Madrid,Coslada,Instalación de Paneles Solares (Fotovoltaicos o Híbridos),608621,45646,288000,6.3
+Valenciana,Alzira,Optimización de la potencia contratada,0,251,9,0
+Asturias,Avilés,Sustitución de luminarias a LED,73,7,26,3.9
+Valenciana,Benidorm,Optimización de la potencia contratada,0,629,9,0
+Aragón,Cogullada,Optimización de la potencia contratada,0,420,9,0
+Valenciana,Elche,Optimización de la potencia contratada,0,119,9,0.1
+Comunidad Valenciana,Elche,Optimización de la potencia contratada,0,119,9,0.1
+Navarra,Pamplona,Optimización de la potencia contratada,0,774,9,0
+Cataluña,Sant Feliu de Llobregat,Sistema de Gestión Energética,2369,214,1095,5
+Aragón,Zaragoza,Optimización de la potencia contratada,0,490,9,0
+Canarias,Las Palmas,Mejora en el control de la iluminación,9039,840,1200,1.4
+Canarias,Las Palmas,Sistema de Gestión Energética,5066,471,2500,5.3
+Cataluña,Sagrera,Regulación de ventilación mediante sonda de CO2,3640,336,550,0.6
+Madrid,Eloy Gonzalo,Reducción del consumo remanente,4076,552.3,950,1.7
+Madrid,Legazpi,Eliminación de la energía reactiva,0,136,708,5
+Madrid,Móstoles,Sustitución de Equipos de Climatización,28476,4277,34040,8
+Madrid,Torrejón de Ardoz,Eliminación de la energía reactiva,0,104,749,7
+Madrid,Tres Cantos,Instalación de Paneles Solares (Fotovoltaicos o Híbridos),19023,2820,10200,3.6
+Cataluña,Sant Cugat del Vallès,Optimización de la potencia contratada,0,20795,9,0
+Cataluña,Sant Cugat del Vallès,Mejora en el control de la iluminación,2533,187,500,2.7
+Cataluña,Sant Cugat del Vallès,Aislamiento Térmico de Tuberías y Redes,4110,210,420,2
+Cataluña,Sant Cugat del Vallès,Mejora de la Eficiencia en Calderas,28769,1467,0,0
+Cataluña,Sant Cugat del Vallès,Sustitución de luminarias a LED,72128,5330,8364,1.6
+Cataluña,Sant Cugat del Vallès,Mejora de la Eficiencia en Calderas,82197,4219,13500,3.2
+Cataluña,Sant Cugat del Vallès,Instalación de Recuperadores de Calor,168220,8635,24000,2.8
+Cataluña,Sant Cugat del Vallès,Instalación de Recuperadores de Calor,359876,18472,85631,4.6
+Cataluña,Sant Cugat del Vallès,Instalación de Paneles Solares (Fotovoltaicos o Híbridos),90884,6725,43500,6.5
+EUSKADI,Bergara,Optimización de la potencia contratada,0,431,463,1.1
+EUSKADI,Bergara,Regulación de la temperatura de consigna,860,65,0,0
+EUSKADI,Bergara,Eliminación de la energía reactiva,0,275,705,2.6
+EUSKADI,Bergara,Sustitución de luminarias a LED,9011,681,3983,5.8
+EUSKADI,Bergara,Sistema de Gestión Energética,2275,172,1095,6.4
+EUSKADI,Bilbao,Optimización de la potencia contratada,0,1235,9,0
+EUSKADI,Bilbao,Regulación de la temperatura de consigna,1338,101,0,0
+EUSKADI,Bilbao,Mejora en el control de la iluminación,2143,162,288,1.8
+EUSKADI,Bilbao,Sistema de Gestión Energética,2716,205,1095,5.3
+EUSKADI,Durango,Optimización de la potencia contratada,0,3340,9,0
+EUSKADI,Durango,Regulación de la temperatura de consigna,787,59,0,0
+EUSKADI,Durango,Instalación cortina de aire,4039,305,1200,3.9
+EUSKADI,Durango,Sistema de Gestión Energética,2271,172,1095,6.4
+Madrid,Coslada,Sustitución de luminarias a LED,211918,15667,21061,1.3
+Madrid,Coslada,Renovación de Equipamiento Específico,182500,13492,75000,5.6
+Madrid,Coslada,Instalación de Recuperadores de Calor,35584,4054,57432,14.2
+Madrid,Coslada,Sustitución de Equipos de Climatización,84,6210,240000,38.6
+BALEARES,Palma de Mallorca,Sistema de Gestión Energética,4391,613,1095,1.8
+BALEARES,Palma de Mallorca,Optimización de la potencia contratada,0,1453,9,0
+BALEARES,Palma de Mallorca,Sustitución de luminarias a LED,10412,1453,3648,2.5
+BALEARES,Palma de Mallorca,Instalación cortina de aire,3080,430,1200,2.8
+BALEARES,Palma de Mallorca,Regulación de ventilación mediante sonda de CO2,867,121,550,4.5
+Cantabria,Santander,Optimización de la potencia contratada,0,904,9,0
+Cantabria,Santander,Regulación de la temperatura de consigna,722,55,0,0
+Cantabria,Santander,Mejora en el control de la iluminación,2328,176,288,1.6
+Cantabria,Santander,Instalación cortina de aire,3317,251,1200,4.8
+Cantabria,Santander,Sistema de Gestión Energética,1673,126,1095,8.7
+Castilla-La Mancha,Albacete,Optimización de la potencia contratada,0,887,9,0
+Castilla-La Mancha,Albacete,Regulación de la temperatura de consigna,767,73,0,0
+Castilla-La Mancha,Albacete,Eliminación de la energía reactiva,0,379,1111,2.9
+Castilla-La Mancha,Albacete,Mejora en el control de la iluminación,690,65,204,3.1
+Castilla-La Mancha,Albacete,Instalación cortina de aire,3662,348,1200,3.5
+Castilla-La Mancha,Albacete,Sustitución de luminarias a LED,3459,328,1177,3.6
+Castilla-La Mancha,Albacete,Sistema de Gestión Energética,2036,193,1095,5.7
+Valenciana,Alicante,Regulación de la temperatura de consigna,2437,231,0,0
+Valenciana,Alicante,Optimización de la potencia contratada,0,329,9,0
+Valenciana,Alicante,Instalación cortina de aire,4945,469,1200,2.6
+Valenciana,Alicante,Sistema de Gestión Energética,5802,551,1995,3.6
+Valenciana,Alicante,Sustitución de luminarias a LED y mejora en su control,21581,2048,13363,6.5
+Andalucía,Almería,Optimización de la potencia contratada,0,557,9,0
+Andalucía,Almería,Regulación de la temperatura de consigna,1007,97,0,0
+Andalucía,Almería,Eliminación de la energía reactiva,0,277,705,2.5
+Andalucía,Almería,Mejora en el control de la iluminación,982,95,288,3
+Andalucía,Almería,Instalación cortina de aire,4144,400,1200,3
+Andalucía,Almería,Sistema de Gestión Energética,2184,211,1095,5.2
+Valenciana,Alzira,Sistema de Gestión Energética,2779,266,1500,5.6
+Valenciana,Alzira,Regulación de la temperatura de consigna,1843,177,0,0
+Valenciana,Alzira,Sustitución de luminarias a LED y mejora en su control,13901,1329,6082,4.6
+Asturias,Avilés,Regulación de la temperatura de consigna,877,82,0,0
+Asturias,Avilés,Optimización de la potencia contratada,0,304,9,0
+Asturias,Avilés,Instalación de temporizador digital en termo eléctrico,780,73,30,0.4
+Asturias,Avilés,Mejora en el control de la iluminación,1009,94,228,2.4
+Asturias,Avilés,Sistema de Gestión Energética,2091,195,1095,5.6
+Valenciana,Benidorm,Sistema de Gestión Energética,2052,199,1395,7
+Valenciana,Benidorm,Sustitución de luminarias a LED y mejora en su control,14686,1427,5260,3.7
+Valenciana,Benidorm,Regulación de la temperatura de consigna,680,66,0,0
+Valenciana,Benidorm,Eliminación de la energía reactiva,0,429,599,1.4
+Valenciana,Benidorm,Instalación cortina de aire,3049,296,1200,4
+EUSKADI,Berga,Promover la cultura energética,4117,367,0,0
+EUSKADI,Berga,Regulación de la temperatura de consigna,2449,218,0,0
+EUSKADI,Berga,Reducción del consumo remanente,1799,160,0,0
+EUSKADI,Berga,Sistema de Gestión Energética,3293,293,1095,3.7
+Valenciana,Castellón de la Plana,Optimización de la potencia contratada,0,477,9,0
+Valenciana,Castellón de la Plana,Eliminación de la energía reactiva,0,86,200,2.3
+Valenciana,Castellón de la Plana,Instalación cortina de aire,2393,230,1200,5.2
+Valenciana,Castellón de la Plana,Sustitución de luminarias a LED y mejora en su control,18001,1726,12822,7.4
+Valenciana,Castellón de la Plana,Sistema de Gestión Energética,3141,301,1500,5
+Cataluña,Cervera,Optimización de la potencia contratada,0,2381,0,0
+Cataluña,Cervera,Instalación cortina de aire,4278,398,1200,3
+Cataluña,Cervera,Sistema de Gestión Energética,2107,196,1095,5.6
+Aragón,Cogullada,Eliminación de la energía reactiva,0,261,705,2.7
+Aragón,Cogullada,Sustitución de luminarias a LED y mejora en su control,4686,406,1245,3.1
+Aragón,Cogullada,Instalación cortina de aire,3010,261,1200,4.6
+Aragón,Cogullada,Sistema de Gestión Energética,3491,302,1750,5.8
+Valenciana,Elche,Regulación de la temperatura de consigna,2225,212,0,0
+Valenciana,Elche,Eliminación de la energía reactiva,0,833,705,0.8
+Valenciana,Elche,Instalación cortina de aire,8546,813,2400,3
+Valenciana,Elche,Sistema de Gestión Energética,5510,524,1995,3.8
+Valenciana,Elche,Sustitución de luminarias a LED y mejora en su control,17561,1670,9236,5.5
+Comunidad Valenciana,Elche,Regulación de la temperatura de consigna,2225,212,0,0
+Comunidad Valenciana,Elche,Eliminación de la energía reactiva,0,833,705,0.8
+Comunidad Valenciana,Elche,Instalación cortina de aire,8546,813,2400,3
+Comunidad Valenciana,Elche,Sistema de Gestión Energética,5510,524,1995,3.8
+Comunidad Valenciana,Elche,Sustitución de luminarias a LED y mejora en su control,17561,1670,9236,5.5
+Cataluña,Gavà,Optimización de la potencia contratada,0,200,9,0
+Cataluña,Gavà,Regulación de la temperatura de consigna,2739,266,0,0
+Cataluña,Gavà,Sustitución de luminarias a LED,9962,968,1119,1.2
+Cataluña,Gavà,Sistema de Gestión Energética,2834,275,1095,4
+Castilla-La Mancha,Guadalajara,Optimización de la potencia contratada,0,336,0,0
+Castilla-La Mancha,Guadalajara,Sistema de Gestión Energética,4170,400,1900,4.8
+Castilla-La Mancha,Guadalajara,Reducción del consumo remanente,2870,275,250,0.9
+Castilla-La Mancha,Guadalajara,Sustitución de luminarias a LED y mejora en su control,14019,1344,7657,5.7
+Castilla y León,León,Instalación de temporizador digital en termo eléctrico,708,66,60,0.9
+Castilla y León,León,Sistema de Gestión Energética,4638,430,1095,2.5
+Castilla y León,León,Sustitución de luminarias a LED y mejora en su control,19604,1817,3780,2.1
+La Rioja,Logroño,Instalación de temporizador digital en termo eléctrico,3067,288,90,0.3
+La Rioja,Logroño,Instalación cortina de aire,4787,450,1200,2.7
+La Rioja,Logroño,Sistema de Gestión Energética,2758,259,1095,4.2
+La Rioja,Logroño,Mejora en el control de la iluminación,299,28,120,4.3
+La Rioja,Logroño,Sustitución de luminarias a LED,2930,275,1277,4.6
+La Rioja,Logroño,Instalación de Paneles Solares (Fotovoltaicos o Híbridos),22575,2566,23000,9
+La Rioja,Logroño,Eliminación de la energía reactiva,0,53,560,10.6
+Murcia,Murcia,Sustitución de luminarias a LED,3532,339,505,1.5
+Murcia,Murcia,Instalación cortina de aire,3988,382,1200,3.1
+Murcia,Murcia,Sistema de Gestión Energética,4360,418,1495,3.6
+Murcia,Murcia,Mejora en el control de la iluminación,1096,105,491,4.7
+Asturias,Oviedo,Regulación de la temperatura de consigna,1300,117,0,0
+Asturias,Oviedo,Optimización de la potencia contratada,0,234,9,0
+Asturias,Oviedo,Eliminación de la energía reactiva,0,203,599,2.9
+Asturias,Oviedo,Sustitución de luminarias a LED,565,51,109,2.1
+Asturias,Oviedo,Sistema de Gestión Energética,3418,308,1095,3.6
+Asturias,Oviedo,Mejora en el control de la iluminación,349,31,204,6.5
+Castilla y León,Palencia,Eliminación de la energía reactiva,0,830,705,0.8
+Castilla y León,Palencia,Optimización de la potencia contratada,0,842,9,0
+Castilla y León,Palencia,Instalación de temporizador digital en termo eléctrico,683,63,60,1
+Castilla y León,Palencia,Sustitución de luminarias a LED,9478,870,2243,2.6
+Castilla y León,Palencia,Sistema de Gestión Energética,2830,260,1095,4.2
+Navarra,Pamplona,Regulación de la temperatura de consigna,3768,347,0,0
+Navarra,Pamplona,Sustitución de luminarias a LED,565,52,109,2.1
+Navarra,Pamplona,Sistema de Gestión Energética,4013,370,1750,4.7
+Castilla y León,Ponferrada,Optimización de la potencia contratada,0,221,9,0
+Castilla y León,Ponferrada,Instalación de temporizador digital en termo eléctrico,799,74,30,0.4
+Castilla y León,Ponferrada,Sistema de Gestión Energética,3386,314,1095,3.5
+Castilla y León,Ponferrada,Eliminación de la energía reactiva,0,162,577,3.6
+Castilla y León,Ponferrada,Mejora en el control de la iluminación,1042,97,372,3.8
+Castilla y León,Ponferrada,Sustitución de luminarias a LED,10696,993,4406,4.4
+Galicia,Pontevedra,Optimización de la potencia contratada,0,349,9,0
+Galicia,Pontevedra,Instalación de temporizador digital en termo eléctrico,832,77,30,0.4
+Galicia,Pontevedra,Instalación cortina de aire,3900,361,1200,3.3
+Galicia,Pontevedra,Sistema de Gestión Energética,1983,183,1095,6
+Galicia,Pontevedra,Mejora en el control actual,288,27,162,6.1
+Castilla y León,Salamanca,Instalación cortina de aire,3657,335,1200,3.6
+Castilla y León,Salamanca,Instalación de temporizador digital en termo eléctrico,719,44,60,1.4
+Castilla y León,Salamanca,Sustitución de luminarias a LED y mejora en su control,12131,1111,2190,2
+Castilla y León,Salamanca,Sistema de Gestión Energética,3321,304,1095,3.6
+Cataluña,Sant Feliu de Llobregat,Optimización de la potencia contratada,0,1169,9,0
+Cataluña,Sant Feliu de Llobregat,Regulación de la temperatura de consigna,1245,119,0,0
+Cataluña,Sant Feliu de Llobregat,Instalación de temporizador digital en termo eléctrico,876,81,60,0.7
+Cataluña,Sant Feliu de Llobregat,Instalación cortina de aire,2704,258,1200,4.7
+Castilla y León,Segovia,Instalación de temporizador digital en termo eléctrico,581,53,60,1.1
+Castilla y León,Segovia,Sustitución de luminarias a LED y mejora en su control,8501,780,4055,5.2
+Castilla y León,Segovia,Sistema de Gestión Energética,2329,214,1095,5.1
+Castilla y León,Soria,Regulación de la temperatura de consigna,1298,117,0,0
+Castilla y León,Soria,Instalación de temporizador digital en termo eléctrico,1065,96,30,0.3
+Castilla y León,Soria,Mejora en el control actual de iluminación,565,51,228,4.5
+Castilla y León,Soria,Sistema de Gestión Energética,2398,216,1095,5.1
+Castilla y León,Soria,Sustitución de luminarias a LED,7460,672,3814,5.7
+Castilla-La Mancha,Toledo,Optimización de la potencia contratada,0,310,9,0
+Castilla-La Mancha,Toledo,Regulación de la temperatura de consigna,698,67,0,0
+Castilla-La Mancha,Toledo,Mejora en el control actual de iluminación,261,25,84,3.4
+Castilla-La Mancha,Toledo,Sistema de Gestión Energética,2247,215,1095,5.1
+Navarra,Tudela,Regulación de la temperatura de consigna,1299,122,0,0
+Navarra,Tudela,Optimización de la potencia contratada,0,300,9,0
+Navarra,Tudela,Instalación cortina de aire,5065,477,1200,2.5
+Navarra,Tudela,Regulación de ventilación mediante sonda de CO2,1572,148,550,3.7
+Navarra,Tudela,Sistema de Gestión Energética,2875,271,1750,6.5
+Cataluña,VÍA AUGUSTA 18 PLANTA 4,Regulación de la temperatura de consigna,2475,239,0,0
+Cataluña,VÍA AUGUSTA 18 PLANTA 4,Regulación de ventilación mediante sonda de CO2,806,78,550,7.1
+Cataluña,VÍA AUGUSTA 18 PLANTA 4,Sistema de Gestión Energética,2394,231,1095,4.7
+Cataluña,VÍA AUGUSTA 18 PLANTA 5,Regulación de la temperatura de consigna,2793,268,0,0
+Cataluña,VÍA AUGUSTA 18 PLANTA 5,Regulación de ventilación mediante sonda de CO2,674,65,550,8.5
+Cataluña,VÍA AUGUSTA 18 PLANTA 5,Sistema de Gestión Energética,2634,253,1095,4.3
+Cataluña,VÍA AUGUSTA 18 PLANTA 5,Sustitución de luminarias a LED,9599,923,4464,4.8
+Cataluña,VÍA AUGUSTA 18 PLANTA 6,Regulación de la temperatura de consigna,2793,263,0,0
+Cataluña,VÍA AUGUSTA 18 PLANTA 6,Regulación de ventilación mediante sonda de CO2,1170,110,550,5
+Cataluña,VÍA AUGUSTA 18 PLANTA 6,Sistema de Gestión Energética,2470,233,1095,4.7
+Cataluña,VÍA AUGUSTA 18 PLANTA 6,Sustitución de luminarias a LED,8113,765,3696,4.8
+Cataluña,VÍA AUGUSTA 18 BAJO,Regulación de la temperatura de consigna,2407,220,0,0
+Cataluña,VÍA AUGUSTA 18 BAJO,Regulación de ventilación mediante sonda de CO2,1143,104,550,5.3
+Cataluña,VÍA AUGUSTA 18 BAJO,Sistema de Gestión Energética,3656,333,1095,3.3
+Cataluña,VÍA AUGUSTA 18 BAJO,Sustitución de luminarias a LED,2684,245,486,2
+Cataluña,VÍA AUGUSTA 18 ENTLO,Regulación de la temperatura de consigna,2636,259,0,0
+Cataluña,VÍA AUGUSTA 18 ENTLO,Regulación de ventilación mediante sonda de CO2,847,83,550,6.6
+Cataluña,VÍA AUGUSTA 18 ENTLO,Sistema de Gestión Energética,2625,258,1095,4.3
+Cataluña,VÍA AUGUSTA 18 ENTLO,Sustitución de luminarias a LED,5918,581,2256,3.9
+Cataluña,VÍA AUGUSTA 36,Regulación de la temperatura de consigna,20504,1895,0,0
+Cataluña,VÍA AUGUSTA 36,Sustitución de luminarias a LED,77219,7135,17119,2.4
+Cataluña,VÍA AUGUSTA 36,Instalación cortina de aire,34174,3158,1200,0.4
+Cataluña,VÍA AUGUSTA 36,Sistema de Gestión Energética,26291,2429,3000,1.2
+Castilla y León,Valladolid,Regulación de la temperatura de consigna,4736,441,0,0
+Castilla y León,Valladolid,Optimización de la potencia contratada,0,551,450,0.8
+Castilla y León,Valladolid,Sustitución de luminarias a LED,23624,2199,8928,4.1
+Castilla y León,Valladolid,Sistema de Gestión Energética,10325,961,1095,1.1
+Castilla y León,Valladolid,Aislamiento Térmico de Tuberías y Redes,808,75,310,4.1
+Cataluña,VIC 2,Optimización de la potencia contratada,0,2030,9,0
+Cataluña,VIC 2,Regulación de la temperatura de consigna,679,64,0,0
+Cataluña,VIC 2,Instalación de temporizador digital en termo eléctrico,391,37,60,1.6
+Cataluña,VIC 2,Instalación cortina de aire,1946,183,1200,6.6
+Cataluña,VIC 2,Sistema de Gestión Energética,1379,130,1095,8.5
+Cataluña,VIC,Regulación de la temperatura de consigna,4227,389,0,0
+Cataluña,VIC,Instalación de temporizador digital en termo eléctrico,853,79,60,0.8
+Cataluña,VIC,Sistema de Gestión Energética,3913,360,1095,3
+Cataluña,VIC,Optimización de la potencia contratada,0,577,9,0
+Galicia,Vigo,Instalación cortina de aire,4151,383,1200,3.1
+Galicia,Vigo,Mejora en el control actual,911,84,420,5
+Galicia,Vigo,Sistema de Gestión Energética,2267,209,1095,5.2
+Castilla y León,Zamora,Regulación de la temperatura de consigna,4572,407,0,0
+Castilla y León,Zamora,Optimización de la potencia contratada,0,296,9,0
+Castilla y León,Zamora,Instalación de temporizador digital en termo eléctrico,832,77,30,0.4
+Castilla y León,Zamora,Eliminación de la energía reactiva,0,385,605,1.6
+Castilla y León,Zamora,Mejora en el control actual,1559,139,366,2.6
+Castilla y León,Zamora,Sistema de Gestión Energética,3896,347,1095,3.2
+Castilla y León,Zamora,Sustitución de luminarias a LED,11847,1056,5655,5.4
+Aragón,Zaragoza,Instalación cortina de aire,5180,480,1200,2.5
+Aragón,Zaragoza,Regulación de la temperatura de consigna,2417,224,0,0
+Aragón,Zaragoza,Sistema de Gestión Energética,5798,564,1750,3.1
+Galicia,Ferrol,Regulación de la temperatura de consigna,882,83,0,0
+Galicia,Ferrol,Optimización de la potencia contratada,0,200,9,0
+Galicia,Ferrol,Instalación de temporizador digital en termo eléctrico,780,73,30,0.4
+Galicia,Ferrol,Sustitución de luminarias a LED,489,46,151,3.3
+Galicia,Ferrol,Mejora en el control actual,863,81,413,5.1
+Galicia,Ferrol,Sistema de Gestión Energética,1930,181,1095,6
+Cataluña,Palamós,Regulación de la temperatura de consigna,4611,433,0,0
+Cataluña,Palamós,Optimización de la potencia contratada,0,65,0,0
+Cataluña,Palamós,Instalación de Recuperadores de Calor,18481,1756,13500,7.7
+Cataluña,Palamós,Sistema de Gestión Energética,2121,202,1095,5.4
+Cataluña,Badalona,Instalación cortina de aire,6736,627,1200,1.9
+Cataluña,Badalona,Regulación de la temperatura de consigna,3144,293,0,0
+Cataluña,Badalona,Sistema de Gestión Energética,7772,724,1300,1.8
+Cataluña,Sants,Regulación de la temperatura de consigna,653,62,0,0
+Cataluña,Sants,Mejora en el control de la iluminación,4118,394,1080,2.7
+Cataluña,Sants,Instalación cortina de aire,2884,276,1200,4.3
+Cataluña,Sants,Sistema de Gestión Energética,2095,200,1300,6.5
+Cataluña,Girona,Regulación de la temperatura de consigna,5446,487,0,0
+Cataluña,Girona,Optimización de la potencia contratada,0,6522,9,0
+Cataluña,Girona,Instalación cortina de aire,14161,1266,1200,0.9
+Cataluña,Girona,Sistema de Gestión Energética,8098,724,1300,1.8
+Cataluña,Girona,Regulación de ventilación mediante sonda de CO2,10893,974,550,0.6
+Canarias,Las Palmas,Regulación de la temperatura de consigna,3451,321,0,0
+Canarias,Las Palmas,Optimización de la potencia contratada,0,226,9,0
+Canarias,Las Palmas,Eliminación de la energía reactiva,0,866,700,0.8
+Cataluña,Lleida,Optimización de la potencia contratada,0,1972,9,0
+Cataluña,Lleida,Instalación cortina de aire,6502,589,1200,2
+Cataluña,Lleida,Sistema de Gestión Energética,4199,380,1095,2.9
+Cataluña,Sagrera,Optimización de la potencia contratada,0,1487,9,0
+Cataluña,Sagrera,Instalación cortina de aire,6455,596,1200,2
+Cataluña,Sagrera,Sistema de Gestión Energética,6184,571,1300,2.3
+Madrid,Alcobendas,Sistema de Gestión Energética,2082,351,1095,3.1
+Madrid,Alcobendas,Eliminación de la energía reactiva,0,420,1218,2.9
+Madrid,Alcobendas,Sustitución de luminarias a LED,10009,1689,3500,2.1
+Madrid,Alcobendas,Reducción del consumo remanente,642,108,162,1.5
+Madrid,Alcobendas,Sustitución de Equipos de Climatización,12632,1866,31519,16.89
+Madrid,ARGANDA DEL REY,Sistema de Gestión Energética,5107,690,1095,1.6
+Madrid,ARGANDA DEL REY,Sustitución de luminarias a LED,13000,1755,4491,2.6
+Madrid,ARGANDA DEL REY,Sustitución de luminarias a LED y mejora en su control,5196,702,2550,3.6
+Madrid,ARGANDA DEL REY,Reducción del consumo remanente,551,74,152,2
+Madrid,ARGANDA DEL REY,Instalación de Paneles Solares (Fotovoltaicos o Híbridos),22329,3096,12750,4.1
+Madrid,ARGANDA DEL REY,Sustitución de Equipos de Climatización,29861,4032,73508,18.2
+Madrid,Collado Villalba,Sistema de Gestión Energética,2604,402,1095,2.7
+Madrid,Collado Villalba,Sustitución de luminarias a LED,1585,245,1377,5.6
+Madrid,Collado Villalba,Reducción del consumo remanente,538,83,133,1.6
+Madrid,Collado Villalba,Optimización de la potencia contratada,0,340,9,0
+Madrid,Collado Villalba,Eliminación de la energía reactiva,0,116,896,7.7
+Madrid,Eloy Gonzalo,Sistema de Gestión Energética,7481,1330,1095,0.8
+Madrid,Eloy Gonzalo,Sustitución de luminarias a LED,32033,4341,8434,1.9
+Madrid,Eloy Gonzalo,Instalación de Paneles Solares (Fotovoltaicos o Híbridos),23227,3186,12750,4
+Madrid,Eloy Gonzalo,Instalación de Recuperadores de Calor,4332,2760,12360,4.5
+Madrid,Eloy Gonzalo,Optimización de la potencia contratada,0,930,9,0
+Madrid,FRANCISCO SILVELA,Sistema de Gestión Energética,16749,2172,1095,0.5
+Madrid,FRANCISCO SILVELA,Sustitución de luminarias a LED,54927,7122,18074,2.5
+Madrid,FRANCISCO SILVELA,Reducción del consumo remanente,2652,344,789,2.3
+Madrid,FRANCISCO SILVELA,Optimización de la potencia contratada,0,562,9,0
+Madrid,FRANCISCO SILVELA,Sustitución de Equipos de Climatización,8543,1108,13626,12.3
+Madrid,Getafe,Sistema de Gestión Energética,3348,483,1095,2.3
+Madrid,Getafe,Sustitución de luminarias a LED,10396,1499,2755,1.8
+Madrid,Getafe,Reducción del consumo remanente,559,81,143,1.8
+Madrid,Getafe,Sustitución de Equipos de Climatización,14712,2121,43372,20.4
+Madrid,Getafe,Optimización de la potencia contratada,0,1169,9,0
+Madrid,Humanes,Sistema de Gestión Energética,2520,419,1095,2.6
+Madrid,Humanes,Sustitución de luminarias a LED,6865,1141,4768,4.2
+Madrid,Humanes,Sustitución de luminarias a LED y mejora en su control,4691,779,4627,5.9
+Madrid,Humanes,Reducción del consumo remanente,561,93,133,1.4
+Madrid,Humanes,Instalación de Paneles Solares (Fotovoltaicos o Híbridos),11228,2089,8500,4
+Madrid,Humanes,Sustitución de Equipos de Climatización,9558,1588,31519,19.8
+Madrid,Humanes,Optimización de la potencia contratada,0,959,9,0
+Madrid,Las Rozas,Sistema de Gestión Energética,2359,427,1095,2.6
+Madrid,Las Rozas,Eliminación de la energía reactiva,0,209,796,3.8
+Madrid,Las Rozas,Reducción del consumo remanente,843,152,285,1.9
+Madrid,Las Rozas,Optimización de la potencia contratada,0,1073,9,0
+Madrid,Legazpi,Sistema de Gestión Energética,4665,738,1095,1.5
+Madrid,Legazpi,Reducción del consumo remanente,16,253,551,2.2
+Madrid,Legazpi,Optimización de la potencia contratada,0,1338,9,0
+Madrid,Legazpi,Sustitución de luminarias a LED,12114,1917,2985,1.6
+Madrid,Móstoles,Sistema de Gestión Energética,2021,304,1095,3.6
+Madrid,Móstoles,Eliminación de la energía reactiva,0,148,749,5
+Madrid,Móstoles,Sustitución de luminarias a LED,3781,568,802,1.4
+Madrid,Móstoles,Reducción del consumo remanente,722,109,285,2.6
+Madrid,Móstoles,Optimización de la potencia contratada,0,210,9,0
+Madrid,Pinto,Sistema de Gestión Energética,8336,896,1095,1.2
+Madrid,Pinto,Sustitución de luminarias a LED,12550,1740,3960,2.3
+Madrid,Pinto,Reducción del consumo remanente,1007,140,333,2.4
+Madrid,Pinto,Optimización de la potencia contratada,0,522,9,0
+Madrid,Torrejón de Ardoz,Sistema de Gestión Energética,232,358,1095,3.1
+Madrid,Torrejón de Ardoz,Sustitución de luminarias a LED,3447,531,946,1.8
+Madrid,Torrejón de Ardoz,Reducción del consumo remanente,801,124,266,2.2
+Madrid,Torrejón de Ardoz,Optimización de la potencia contratada,0,695,9,0
+Madrid,Torrejón de Ardoz,Sustitución de Equipos de Climatización,11657,1797,22775,12.7
+Madrid,Tres Cantos,Sistema de Gestión Energética,3962,585,1095,1.9
+Madrid,Tres Cantos,Sustitución de luminarias a LED,10573,1562,5915,3.8
+Madrid,Tres Cantos,Reducción del consumo remanente,1034,153,276,1.8
+Madrid,Tres Cantos,Sustitución de Equipos de Climatización,24295,3589,52532,14.6
+Madrid,Valdemoro,Sistema de Gestión Energética,2056,359,1095,3
+Madrid,Valdemoro,Eliminación de la energía reactiva,0,293,832,2.8
+Madrid,Valdemoro,Reducción del consumo remanente,564,99,200,2
+Madrid,Valdemoro,Optimización de la potencia contratada,0,471,9,0
+Madrid,Valdemoro,Sustitución de Equipos de Climatización,17457,2691,47279,17.6
+
