@@ -6,3 +6,4 @@ statsmodels
 numpy
 requests
 thefuzz
+openpyxl
