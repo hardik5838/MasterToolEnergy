@@ -16,34 +16,64 @@ def run():
     data_folder = os.path.join(root_dir, 'data')
 
     # --- Funciones de Carga de Datos ---
-    @st.cache_data
-    def load_asepeyo_energy_data(file_path):
-        """Carga y procesa el archivo de consumo energético local o remoto."""
-        try:
-            if file_path.startswith('http'):
-                df = pd.read_csv(file_path, sep=',', decimal='.', skipinitialspace=True)
-            else:
-                df = pd.read_csv(file_path, sep=',', decimal='.')
-            
-            df.rename(columns=lambda x: x.strip(), inplace=True)
-            
-            # Check for required columns
-            if 'Fecha' not in df.columns or 'Energía activa (kWh)' not in df.columns:
-                # Try fallback names if specific column names vary
-                if 'fecha' in df.columns: df.rename(columns={'fecha': 'Fecha'}, inplace=True)
-                if 'consumo_kwh' in df.columns: df.rename(columns={'consumo_kwh': 'Energía activa (kWh)'}, inplace=True)
-            
-            if 'Fecha' not in df.columns:
-                 st.error(f"El archivo debe contener las columnas 'Fecha' y 'Energía activa (kWh)'. Columnas encontradas: {list(df.columns)}")
-                 return pd.DataFrame()
-                
-            df.rename(columns={'Fecha': 'fecha', 'Energía activa (kWh)': 'consumo_kwh'}, inplace=True)
-            df['fecha'] = pd.to_datetime(df['fecha'], dayfirst=True, errors='coerce')
-            df.dropna(subset=['fecha'], inplace=True)
-            return df
-        except Exception as e:
-            st.error(f"Error al procesar el archivo de consumo: {e}")
+   # --- REPLACE THIS FUNCTION IN YOUR CODE ---
+@st.cache_data
+def load_asepeyo_energy_data(file_path):
+    """
+    Robust loader that handles:
+    - Comma vs Dot decimals ("81,00" vs "81.00")
+    - Quotes around numbers
+    - Different column names (Fecha y hora vs Fecha)
+    """
+    try:
+        # 1. First attempt: Read CSV (handling bad lines safely)
+        # We don't specify separator/decimal yet to handle mixed formats manually
+        df = pd.read_csv(file_path, on_bad_lines='skip', engine='python')
+        
+        # 2. Normalize Column Names (Strip whitespace)
+        df.columns = df.columns.str.strip()
+        
+        # 3. Rename columns to standard internal names
+        # Add any new variations you find here
+        col_mapping = {
+            'Fecha y hora': 'fecha',
+            'Fecha': 'fecha',
+            'Date': 'fecha',
+            'Energía activa': 'consumo_kwh',
+            'Energía activa (kWh)': 'consumo_kwh',
+            'Consumo': 'consumo_kwh'
+        }
+        df.rename(columns=col_mapping, inplace=True)
+        
+        # 4. Check if required columns exist
+        if 'fecha' not in df.columns or 'consumo_kwh' not in df.columns:
+            st.error(f"Error: Could not find Date/Energy columns. Found: {list(df.columns)}")
             return pd.DataFrame()
+            
+        # 5. Clean Consumption Data (The Critical Fix)
+        # If data is Object type (string) because of quotes/commas, clean it
+        if df['consumo_kwh'].dtype == 'object':
+            df['consumo_kwh'] = (
+                df['consumo_kwh']
+                .astype(str)
+                .str.replace('"', '', regex=False)  # Remove quotes
+                .str.replace('.', '', regex=False)  # Remove thousand separators (if any like 1.000,00)
+                .str.replace(',', '.', regex=False) # Change comma to dot
+            )
+            # Force conversion to number
+            df['consumo_kwh'] = pd.to_numeric(df['consumo_kwh'], errors='coerce')
+
+        # 6. Clean Date Data
+        df['fecha'] = pd.to_datetime(df['fecha'], dayfirst=True, errors='coerce')
+        
+        # 7. Final Cleanup
+        df.dropna(subset=['fecha', 'consumo_kwh'], inplace=True)
+        
+        return df
+
+    except Exception as e:
+        st.error(f"Error processing file: {e}")
+        return pd.DataFrame()
 
     @st.cache_data
     def load_nasa_weather_data(file_path):
